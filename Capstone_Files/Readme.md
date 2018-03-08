@@ -1,5 +1,7 @@
 # TO DO:
 
+Finish Naive Bayes
+
 Decision Trees
 
 Logreg
